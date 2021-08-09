@@ -1,7 +1,9 @@
 # What The Truk Overview
 
 [Link to App Store App](https://my-tier-ultimate.herokuapp.com/)
+
 [Link to Google Play Store App](https://my-tier-ultimate.herokuapp.com/)
+
 [Link to company website](https://my-tier-ultimate.herokuapp.com/)
 
 ---
