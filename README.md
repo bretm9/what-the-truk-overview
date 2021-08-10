@@ -1,10 +1,10 @@
 # What The Truk Overview
 
-[Link to App Store App](https://my-tier-ultimate.herokuapp.com/)
+[Link to App Store App](https://apps.apple.com/us/app/whatthetruk/id1483501047)
 
-[Link to Google Play Store App](https://my-tier-ultimate.herokuapp.com/)
+[Link to Google Play Store App](https://play.google.com/store/apps/details?id=com.whatthetruk.client)
 
-[Link to company website](https://my-tier-ultimate.herokuapp.com/)
+[Link to Company Website](https://www.whatthetruk.com/)
 
 ---
 ## Contents
