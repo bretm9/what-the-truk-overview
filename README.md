@@ -19,6 +19,8 @@
 ## Overview
 
   This repo is built to showcase what I built in my time as a full stack developer at What The Truk. The source code for this project is closed-source, so I am including this README to demonstrate what I built on a high-level and the technologies I leveraged.
+  
+  All the features listed here were developed primarily by me, based on design direction from my supervisor, Evan Tousey. Evan also offered support and suggestions whenever I hit a roadblock in the coding process.
 
   What The Truk is a food truck app that allows users to find and order from local food trucks, and for vendors to advertise their menus, take online orders, and display their current location.
 
@@ -26,7 +28,8 @@
   * The customer app - The app used for customers to find food trucks on a map and submit payments for online orders
   * Vendor app - The app used for vendors to update their food truck menus, view current orders, and enable their location for customers to find them.
 
-  I also wrote code for a custom OAuth server, Google Cloud functions, and Mailgun automated emails
+  Additionally, I maintained and updated database logic. 
+  I also and wrote code for a custom OAuth server, Google Cloud functions, and Mailgun automated emails.
   
 > [Back to the top](#what-the-truk-overview)
 ---
@@ -146,7 +149,7 @@
 
   ### **Enhanced Error-Handling**
 
-  <img width="300" alt="Screen Shot 2021-05-13 at 3 48 22 PM" src="https://user-images.githubusercontent.com/14350203/128783311-652a1ad2-d179-4c37-9ba1-e8d376244496.png">
+  <img width="300" alt="Screen Shot 2021-05-13 at 3 48 22 PM" src="https://user-images.githubusercontent.com/14350203/128924142-ae989f2b-4a3d-4ceb-bbf7-82524bbf67b6.jpg">
 
   <br>
 
