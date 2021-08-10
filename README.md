@@ -18,7 +18,7 @@
 
 ## Overview
 
-  This repo is built to showcase what I built in my time as a full stack developer at What The Truk. The source code for this project is closed-source, so I am including a README and a short video to demonstrate what I built on a high-level and the technologies I leveraged.
+  This repo is built to showcase what I built in my time as a full stack developer at What The Truk. The source code for this project is closed-source, so I am including this README to demonstrate what I built on a high-level and the technologies I leveraged.
 
   What The Truk is a food truck app that allows users to find and order from local food trucks, and for vendors to advertise their menus, take online orders, and display their current location.
 
