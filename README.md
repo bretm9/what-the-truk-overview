@@ -1,5 +1,7 @@
 # What The Truk Overview
 
+![What The Truk food truck artwork](images/what-the-truk.jpg)
+
 [Link to App Store App](https://apps.apple.com/us/app/whatthetruk/id1483501047)
 
 [Link to Google Play Store App](https://play.google.com/store/apps/details?id=com.whatthetruk.client)
