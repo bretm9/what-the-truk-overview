@@ -1,6 +1,8 @@
 # What The Truk Overview
 
-![What The Truk food truck artwork](images/what-the-truk.jpg)
+<p align="center">
+  <img src="images/what-the-truk.jpg" alt="What The Truk food truck artwork" width="300">
+</p>
 
 [Link to App Store App](https://apps.apple.com/us/app/whatthetruk/id1483501047)
 
@@ -99,25 +101,33 @@ I learned to work independently in an unfamiliar codebase and deliver features u
 
   ### **Secure Payment Authentication**
 
-  <img width="300" alt="Screen Shot 2021-06-09 at 11 49 21 AM" src="https://user-images.githubusercontent.com/14350203/128783094-b7d646da-c582-4f29-97af-73bb0eef56c9.png">
+<p align="center">
+  <img width="240" alt="Screen Shot 2021-06-09 at 11 49 21 AM" src="https://user-images.githubusercontent.com/14350203/128783094-b7d646da-c582-4f29-97af-73bb0eef56c9.png">
+</p>
 
   <br>
 
   ### **Vendor Square Login Authentication**
 
-  <img width="300" alt="Screen Shot 2021-06-22 at 11 13 48 AM" src="https://user-images.githubusercontent.com/14350203/128783015-44ca8b2e-16a5-4d1f-8365-62e0c875d089.png">
+<p align="center">
+  <img width="240" alt="Screen Shot 2021-06-22 at 11 13 48 AM" src="https://user-images.githubusercontent.com/14350203/128783015-44ca8b2e-16a5-4d1f-8365-62e0c875d089.png">
+</p>
 
   <br>
 
   ### **Live Order Status Push Notifications**
 
-  <img width="600" alt="Screen Shot 2021-06-24 at 4 30 56 PM" src=https://user-images.githubusercontent.com/14350203/128782836-7157b72b-1b97-4e84-8379-d6805579d69c.jpg>
+<p align="center">
+  <img width="480" alt="Screen Shot 2021-06-24 at 4 30 56 PM" src="https://user-images.githubusercontent.com/14350203/128782836-7157b72b-1b97-4e84-8379-d6805579d69c.jpg">
+</p>
 
   <br>
 
   ### **Order Status Page**
 
-  <img width="600" alt="Screen Shot 2021-05-05 at 4 01 56 PM" src="https://user-images.githubusercontent.com/14350203/128782727-a451beec-562f-4418-aec5-4900868675c4.png">
+<p align="center">
+  <img width="480" alt="Screen Shot 2021-05-05 at 4 01 56 PM" src="https://user-images.githubusercontent.com/14350203/128782727-a451beec-562f-4418-aec5-4900868675c4.png">
+</p>
 
   <br>
 
@@ -125,31 +135,41 @@ I learned to work independently in an unfamiliar codebase and deliver features u
 
   **Customer App:**
 
-  <img width="300" alt="Screen Shot 2021-06-24 at 4 30 56 PM" src=https://user-images.githubusercontent.com/14350203/128782446-b22a0ef6-a5df-4345-a3a2-69a2d7bb2bf2.PNG>
+<p align="center">
+  <img width="240" alt="Screen Shot 2021-06-24 at 4 30 56 PM" src="https://user-images.githubusercontent.com/14350203/128782446-b22a0ef6-a5df-4345-a3a2-69a2d7bb2bf2.PNG">
+</p>
   
   <br>
   
   **Vendor App:**
 
-  <img width="300" alt="Screen Shot 2021-04-22 at 11 40 36 AM" src="https://user-images.githubusercontent.com/14350203/128782633-05cbe00d-6d51-47f3-aad5-1a3ed58a5e4c.png">
+<p align="center">
+  <img width="240" alt="Screen Shot 2021-04-22 at 11 40 36 AM" src="https://user-images.githubusercontent.com/14350203/128782633-05cbe00d-6d51-47f3-aad5-1a3ed58a5e4c.png">
+</p>
 
   <br>
 
   ### **Reminder push notifications**
 
-  <img width="600" alt="Screen Shot 2021-06-24 at 4 30 56 PM" src=https://user-images.githubusercontent.com/14350203/128781562-cdccc62b-9cc8-4855-8e64-270f4dd97b07.jpg>
+<p align="center">
+  <img width="480" alt="Screen Shot 2021-06-24 at 4 30 56 PM" src="https://user-images.githubusercontent.com/14350203/128781562-cdccc62b-9cc8-4855-8e64-270f4dd97b07.jpg">
+</p>
 
   <br>
 
   ### **Exact Food Truck Addresses**
 
-  <img width="300" alt="Screen Shot 2021-06-24 at 4 30 56 PM" src="https://user-images.githubusercontent.com/14350203/128781231-18c65c7a-4d3a-40f1-83f0-f95a2edc5d11.png">
+<p align="center">
+  <img width="240" alt="Screen Shot 2021-06-24 at 4 30 56 PM" src="https://user-images.githubusercontent.com/14350203/128781231-18c65c7a-4d3a-40f1-83f0-f95a2edc5d11.png">
+</p>
 
   <br>
 
   ### **Enhanced Error-Handling**
 
-  <img width="300" alt="Screen Shot 2021-05-13 at 3 48 22 PM" src="https://user-images.githubusercontent.com/14350203/128924142-ae989f2b-4a3d-4ceb-bbf7-82524bbf67b6.jpg">
+<p align="center">
+  <img width="240" alt="Screen Shot 2021-05-13 at 3 48 22 PM" src="https://user-images.githubusercontent.com/14350203/128924142-ae989f2b-4a3d-4ceb-bbf7-82524bbf67b6.jpg">
+</p>
 
   <br>
 
