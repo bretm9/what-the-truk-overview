@@ -20,18 +20,16 @@
 
 ## Overview
 
-  This repo is built to showcase what I built in my time as a full stack developer at What The Truk. The source code for this project is closed-source, so I am including this README to demonstrate what I built on a high-level and the technologies I leveraged.
-  
-  All the features listed here were developed primarily by me, based on design direction from my supervisor, Evan Tousey. Evan also offered support and suggestions whenever I hit a roadblock in the coding process.
+I worked as a full-stack developer at What The Truk. I was the primary developer for the features listed here, with design direction and technical support from my supervisor, Evan Tousey. The application source code is private.
 
-  What The Truk is a food truck app that allows users to find and order from local food trucks, and for vendors to advertise their menus, take online orders, and display their current location.
+What The Truk helps customers find local food trucks and order from them. Vendors use it to publish menus, take orders, and share their current location.
 
-  During my time at What The Truk I contributed to 2 app's code-bases: 
-  * The customer app - The app used for customers to find food trucks on a map and submit payments for online orders
-  * Vendor app - The app used for vendors to update their food truck menus, view current orders, and enable their location for customers to find them.
+I worked on two apps:
 
-  Additionally, I maintained and updated database logic. 
-  I also and wrote code for a custom OAuth server, Google Cloud functions, and Mailgun automated emails.
+- **Customer app:** A map for finding food trucks, online ordering, and payments.
+- **Vendor app:** Menu editing, order management, and location sharing.
+
+I also maintained database logic and wrote code for a custom OAuth server, Google Cloud functions, and automated Mailgun emails.
   
 > [Back to the top](#what-the-truk-overview)
 ---
@@ -54,7 +52,7 @@
 
 ## Features
 
-  While working at What The Truk I lead development for the following features:
+  I led development of the following features:
   - Secure payment authentication via Square Payments API
 
   - Vendor Square login authentication via custom OAuth server in NodeJS + Express
@@ -71,28 +69,28 @@
 
   - Order printing
 
-  - Enhanced error-handling 
+  - Error handling
 
-  - Many bug-fixes including:
+  - Bug fixes:
 
     - Fixed incorrect shopping cart and order pricing
 
     - Fixed food truck locations not updating after initial load
 
-    - Fixed push notifications deploying inconsistently
+    - Fixed inconsistent push notification delivery
 
 > [Back to the top](#what-the-truk-overview)
 ---
 
 ## Challenges  
  
-  This job asked me to learn and work **fast**. Within the first week of this job I had to get up-to-speed with a tech-stack that was entirely new to me. By the second week I was implementing new features, participating in code-reviews, and fixing bugs. This high-paced environment was not unfamiliar thanks to my time at Turing School of Software and Design, but it was challenging to have this level of responsibility for an in-production application with hundreds of active users. 
+Flutter, Dart, and the backend stack were new to me when I started. I spent the first week learning the codebase and was adding features, reviewing code, and fixing bugs by the second week. My training at Turing School of Software and Design helped, but working on a production app with hundreds of active users added responsibility I hadn't had in school.
  
 > [Back to the top](#what-the-truk-overview)
 ---
 ## Successes
  
-  I'm proud to say I grew tremendously through this role, both technically and professionally. I can now jump into unknown tech-stacks with confidence. I know I can learn what I need to in order to begin building new enhancements and making meaningful contributions to the code-base. I also was lucky enough to be mentored by my supervisor, who taught me how to better follow best-practices, write informative documentation/issue-tracking, and generally conduct myself in a professional manor as an autonomous developer.
+I learned to work independently in an unfamiliar codebase and deliver features used by customers and vendors. Evan's mentorship also helped me improve my code reviews, documentation, and issue tracking.
   
 > [Back to the top](#what-the-truk-overview)
 ---
